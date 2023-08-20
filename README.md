@@ -17,7 +17,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            color: #d1d1d1; /* Slightly enhanced light gray for general text */
+            color: #d1d1d1; 
         }
 
         .container {
@@ -120,7 +120,7 @@
             <p><strong>Duration:</strong> 50 minutes</p>
         </div>
 
-        <div class="benefits">
+           <div class="benefits">
             <h2>What Happens When You Join</h2>
             <ul>
                 <li>Unlock ChatGPT Insights</li>
